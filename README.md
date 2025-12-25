@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sohitmahato23" target="blank"><img src="https://img.shields.io/twitter/follow/sohitmahato23?logo=twitter&style=for-the-badge" alt="sohitmahato23" /></a> </p>
 
-- 🔭 I’m currently working as an Associate Test Enginner at SLK Software and as a security researcher I have found security weaknesses in firms such as (ISC)2, OLX, LeetCode, Jio, Databricks, Coretech, etc. and also helped them to reproduce and successfully fixed the vulnerabilities. [Bug Bounty (Freelancer)](https://sohit-kumar-mahato.github.io/portfolio/about.html)
+- 🔭 I work as an Associate Test Engineer at SLK Software and as a freelance security researcher. I’ve responsibly disclosed multiple vulnerabilities to organizations including (ISC)², OLX, LeetCode, Jio, Databricks, and Coretech, and collaborated with their security teams to reproduce issues and confirm remediation. See my bug bounty profile for details: Bug Bounty (Freelancer) [Bug Bounty (Freelancer)] (https://sohit-kumar-mahato.github.io/portfolio/about.html)
 
 - 👨‍💻 All of my projects are available at [https://sohit-kumar-mahato.github.io/portfolio/](https://sohit-kumar-mahato.github.io/portfolio/)
 
